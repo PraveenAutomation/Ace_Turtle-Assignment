@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48042" started-at="2018-08-31T17:06:38Z" finished-at="2018-08-31T17:07:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48042" started-at="2018-08-31T17:06:38Z" finished-at="2018-08-31T17:07:26Z">
+      <class name="com.puma.qa.test.PumaTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.puma.qa.test.PumaTest@3b088d51]" name="setUp" is-config="true" duration-ms="18817" started-at="2018-08-31T17:06:38Z" finished-at="2018-08-31T17:06:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatePageTitle()[pri:1, instance:com.puma.qa.test.PumaTest@3b088d51]" name="validatePageTitle" duration-ms="25" started-at="2018-08-31T17:06:56Z" finished-at="2018-08-31T17:06:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.puma.qa.test.PumaTest@3b088d51]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-08-31T17:06:56Z" finished-at="2018-08-31T17:06:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.puma.qa.test.PumaTest@3b088d51]" name="setUp" is-config="true" duration-ms="14929" started-at="2018-08-31T17:06:56Z" finished-at="2018-08-31T17:07:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="moveOnMen()[pri:2, instance:com.puma.qa.test.PumaTest@3b088d51]" name="moveOnMen" duration-ms="14231" started-at="2018-08-31T17:07:11Z" finished-at="2018-08-31T17:07:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moveOnMen -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.puma.qa.test.PumaTest@3b088d51]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-08-31T17:07:26Z" finished-at="2018-08-31T17:07:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.puma.qa.test.PumaTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
